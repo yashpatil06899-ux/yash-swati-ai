@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "CPX Research",
+    "type": "Survey",
+    "status": "active"
+  },
+  {
+    "id": 2,
+    "name": "BitLabs",
+    "type": "Offerwall",
+    "status": "active"
+  },
+  {
+    "id": 3,
+    "name": "Lootably",
+    "type": "Offerwall",
+    "status": "active"
+  },
+  {
+    "id": 4,
+    "name": "AdGate Media",
+    "type": "Offerwall",
+    "status": "active"
+  },
+  {
+    "id": 5,
+    "name": "OfferToro",
+    "type": "Offerwall",
+    "status": "active"
+  }
+]

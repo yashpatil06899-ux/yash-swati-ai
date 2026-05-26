@@ -1,9 +1,10 @@
 {
   "name": "swativerse-ai",
   "version": "1.0.0",
+  "description": "Telegram Bot",
   "main": "index.js",
   "scripts": {
-    "start": "node bot.js"
+    "start": "node index.js"
   },
   "dependencies": {
     "node-telegram-bot-api": "^0.66.0"

@@ -1,7 +1,6 @@
 {
-  "name": "swativerse-ai",
+  "name": "yash-swati-universe",
   "version": "1.0.0",
-  "description": "Telegram Bot",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"

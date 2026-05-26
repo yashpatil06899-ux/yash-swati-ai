@@ -1,17 +1,17 @@
 [
   {
     "id": 1,
-    "title": "Complete Daily Survey",
-    "reward": 25
+    "title": "CPX Research Survey",
+    "reward": 120
   },
   {
     "id": 2,
-    "title": "Watch Reward Video",
-    "reward": 15
+    "title": "BitLabs Offerwall",
+    "reward": 80
   },
   {
     "id": 3,
-    "title": "Complete Offerwall Task",
-    "reward": 40
+    "title": "Lootably Task",
+    "reward": 60
   }
 ]

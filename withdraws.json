@@ -1,0 +1,14 @@
+[
+  {
+    "name": "PayPal",
+    "minimum": 500
+  },
+  {
+    "name": "Amazon Gift Card",
+    "minimum": 300
+  },
+  {
+    "name": "Google Play Gift Card",
+    "minimum": 250
+  }
+]

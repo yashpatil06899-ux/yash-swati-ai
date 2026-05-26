@@ -1,5 +1,5 @@
 {
-  "name": "grabpoints-telegram-bot",
+  "name": "grabpoints-telegram-companion",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {

@@ -1,11 +1,12 @@
 {
-  "name": "yash-swati-universe",
+  "name": "grabpoints-telegram-bot",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
-    "node-telegram-bot-api": "^0.66.0"
+    "node-telegram-bot-api": "^0.66.0",
+    "puppeteer": "^22.8.2"
   }
 }

@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "title": "Complete Daily Survey",
+    "reward": 25
+  },
+  {
+    "id": 2,
+    "title": "Watch Reward Video",
+    "reward": 15
+  },
+  {
+    "id": 3,
+    "title": "Complete Offerwall Task",
+    "reward": 40
+  }
+]

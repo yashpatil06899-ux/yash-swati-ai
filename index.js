@@ -1,7 +1,7 @@
+const fs = require('fs');
+let users = require('./users.json');
 const TelegramBot = require('node-telegram-bot-api');
-
 const token = process.env.BOT_TOKEN;
-
 const bot = new TelegramBot(token, { polling: true });
 
 bot.onText(/\/start/, (msg) => {
